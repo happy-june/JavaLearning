@@ -12,4 +12,4 @@ tbd
 
 ## 力扣题解整理
 
-【中等】力扣-5-最长回文子串
+【中等】[力扣-5-最长回文子串](/leetCode/5-longest-palindromic-substring.md)
