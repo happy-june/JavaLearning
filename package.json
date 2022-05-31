@@ -1,0 +1,24 @@
+{
+  "name": "javalearning",
+  "version": "1.0.0",
+  "description": "> *这一次，想要认真的学习并归纳，欢迎大家监督和讨论。*  \r > ♥（๑￫‿ฺ￩๑）♥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build" : "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-june/JavaLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-june/JavaLearning/issues"
+  },
+  "homepage": "https://github.com/happy-june/JavaLearning#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
